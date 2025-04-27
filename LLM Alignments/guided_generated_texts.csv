@@ -1,0 +1,21 @@
+gen_text_1,prob1,gen_text_2,prob2
+AGREE_FAILED,0.49638446282010085,Government surveillance is not necessary to thwart terrorism and maintain public safety.,0.5199938277190628
+Businesses should be allowed to gather and sell user data to enhance their services and target ads.,0.47104966495486433,They should be allowed to collect and sell user data to enhance their services and target ads.,0.4669009543938718
+AGREE_FAILED,0.49638446282010085,People should be able to request the deletion of their personal information from the internet.,0.5280795917987952
+Employers are entitled to supervise employees' activities during work hours.,0.5277431348705052,Employees are not entitled to control their activities during work hours.,0.5265251595119707
+Smart home devices are a good way to track user habits and preferences.,0.5513975210112161,Smart home devices do not track user habits and preferences.,0.484439538330448
+Social media companies must protect users' privacy even if it impacts their revenue model.,0.5097058250718633,Social media companies do not have a duty to protect users' privacy.,0.4719123605377376
+"If it advances medical science, sharing medical records with third parties is acceptable.",0.4800475102776196,It is not acceptable to share medical records with third parties for research.,0.5326041254235652
+Facial recognition technology is essential for security and law enforcement.,0.476346851876805,Facial recognition technology is not a threat to public safety.,0.4725616673994492
+AGREE_FAILED,0.49638446282010085,Parents should monitor their children's online activities to protect them from harm.,0.5049874699530413
+AGREE_FAILED,0.49638446282010085,DISAGREE_FAILED,0.49638446282010085
+AGREE_FAILED,0.49638446282010085,Biometric data can be used to identify a person.,0.43056244472373806
+AGREE_FAILED,0.49638446282010085,Apps should be allowed to share users' location data with third parties for marketing purposes.,0.4893393080410392
+Transparency is a good thing.,0.5587148641034594,Public records should be accessible to the general public.,0.4586655384620845
+AGREE_FAILED,0.49638446282010085,People should use their real identities online to avoid cyberbullying and misinformation.,0.5310829764159096
+Companies should be held liable for data breaches if they've implemented reasonable security measures.,0.5227463481338561,DISAGREE_FAILED,0.49638446282010085
+AGREE_FAILED,0.49638446282010085,DNA testing companies should not share genetic information with law enforcement agencies.,0.49787003826181264
+AGREE_FAILED,0.49638446282010085,Schools should not collect and analyze students' data to improve educational outcomes.,0.5367679981626373
+AGREE_FAILED,0.49638446282010085,Smart city technology is a waste of time and money.,0.41953276396829187
+AGREE_FAILED,0.49638446282010085,DISAGREE_FAILED,0.49638446282010085
+Employees should be given access to their social media accounts to ensure they aren't engaging in activities that could harm the company's reputation.,0.4400926704635574,Employees should be allowed access to their social media accounts.,0.5150455259986664
